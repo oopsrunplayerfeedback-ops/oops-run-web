@@ -1,0 +1,7 @@
+Noto Sans CJK Regular — unmodified OpenType Collection
+Copyright © 2014–2021 Adobe (http://www.adobe.com/).
+Designer credits retained inside the font name table.
+Licensed under SIL Open Font License, Version 1.1; see OFL.txt.
+Source: https://github.com/notofonts/noto-cjk/tree/main/Sans/OTC
+SHA-256: b76b0433203017ca80401b2ee0dd69350349871c4b19d504c34dbdd80541690a
+Region faces used: JP index 0; KR index 1; SC index 2.
